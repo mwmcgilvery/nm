@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Hydrogen" description="Test of a tool using Hydrogen Drum Machine" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Program Files (x86)\Hydrogen\hydrogen.exe" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/mwmcgilvery/nmoto" />
+    </exec>
+  </tool>
+</toolSet>
